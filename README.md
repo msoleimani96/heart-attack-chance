@@ -1,5 +1,5 @@
 # Heart Attack Chance Prediction
-This is a classification project for predicting change of heart attack using SVM algorithm.
+This is a classification project for predicting chance of heart attack using SVM algorithm.
 
 ## How to start?
 1. Create a virtual environment:
